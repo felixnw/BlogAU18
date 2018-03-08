@@ -1,7 +1,7 @@
 ---
 title: "Test"
 ---
-[Link](google.com)
+[Link](http://google.com)
 ### H3 header
 paragraphs
 start
