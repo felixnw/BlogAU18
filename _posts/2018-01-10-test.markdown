@@ -1,5 +1,7 @@
 ---
 title: "Test"
+description: "this test thing"
+author: "me"
 ---
 [Link](http://google.com)
 ### H3 header
