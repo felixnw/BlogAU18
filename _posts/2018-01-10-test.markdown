@@ -12,4 +12,8 @@ with each return
 -pretty
 -easy
 
+1. 3 cows
+2. seven houses
+3. hi
+
 Test post.
