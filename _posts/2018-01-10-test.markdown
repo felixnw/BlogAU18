@@ -10,9 +10,9 @@ start
 
 with each return
 
--lists are
--pretty
--easy
+- lists are
+- pretty
+- easy
 
 1. 3 cows
 2. seven houses
