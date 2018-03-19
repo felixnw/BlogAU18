@@ -1,0 +1,6 @@
+---
+title: "Zune player"
+description: "Microsoft zune design"
+---
+<img src="/img/zune.JPG" alt="Original Zune player">
+My dad got rid of his old zune player today. Just got me thinking about its UI and general design. The physical thing is very ugly, but the UI wasn't bad.
