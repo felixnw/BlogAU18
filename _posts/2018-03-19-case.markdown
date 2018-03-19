@@ -1,0 +1,6 @@
+---
+title: "Case sensitivity is confusing"
+description: "Is there actually any good reason for websites to be case sensitive?"
+---
+
+I had a little bit of trouble today with adding photos here because they were ending in ".JPG" instead of ".jpg", and that got me wondering if there were actually any good reasons for that to make a difference. It just seems like it makes things more confusing.
