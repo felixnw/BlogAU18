@@ -1,2 +1,7 @@
 ---
-Title: 
+title: "The US Capitol"
+description: "The design of the US capitol"
+---
+<img src="/img/capitol.JPG" alt="Picture of the US Capitol">
+
+More architecture than graphic design, but I walked by the capitol building today and thought it was an interesting design.
