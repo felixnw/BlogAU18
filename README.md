@@ -1,5 +1,3 @@
-# web1 self-publishing
+# Felixnw's blog for gdes-220
 
-hello@imaginaryterrain.com
-
-[Students: edit this file!]
+Based off of adavidramos' web1 self-publishing
