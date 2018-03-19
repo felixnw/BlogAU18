@@ -2,5 +2,6 @@
 title: "AIGA Eye on Design"
 description: "AIGA's design blog"
 ---
-AIGA Eye on Design
+Cool website:
+
 [AIGA Eye on Design](http://eyeondesign.aiga.org)
