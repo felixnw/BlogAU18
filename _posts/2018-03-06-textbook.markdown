@@ -3,6 +3,6 @@ title: "Math textbook"
 description: "Math textbook cover mistake"
 ---
 
-<img src="img/calculus.JPG" alt="Picture of applied calculus text book">
+<img src="/img/calculus.JPG" alt="Picture of applied calculus text book">
 
 I just noticed a couple days ago that the green box with the title in it does not go all the way to the edge, unlike the orange box with the authors names. Seemed like an oversight.
