@@ -15,10 +15,10 @@ img, object { max-width: 100%; }
 /*	Development/layout aid. Remove the comments
 	on this rule in order to draw boxes around DIVs
 	and other elements used for layout. */
-/* 
+/*
 div, main, article, section, aside, hgroup, header, footer, address, nav {
 	border: 1px solid rgba(255,0,0,0.15) !important;
-	background: rgba(255,0,0,0.05) !important;		
+	background: rgba(255,0,0,0.05) !important;
 }
 */
 
@@ -27,25 +27,90 @@ div, main, article, section, aside, hgroup, header, footer, address, nav {
 /* start project-specifc styles below this line */
 
 body {
-	font-family: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: 'IBM Plex Sans', sans-serif;
 	font-size: 16px;
 	line-height: 1.5em;
 	color: #222;
 }
 
 /*	Generally, you will only want one container element in
-	the document, wrapping around the main content area. 
+	the document, wrapping around the main content area.
 	If you have more than one container, you are probably doing
-	something wrong. 	
+	something wrong.
 */
 .container {
-	margin-top: 1em;
 	margin-right: auto;
 	margin-bottom: 1em;
 	margin-left: auto;
-	width: 90%;
-	max-width: 1200px;
-	padding: 2em;
-	border: 5px solid #eee;
 }
 
+.picture {
+	width: 100%;
+	background-color: yellow;
+	background-image: url(../img/picture1920.jpg);
+	background-size: cover;
+	min-height: 20em;
+	margin-bottom: 1em;
+}
+
+.headline {
+	font-family: 'IBM Plex Serif', serif;
+	font-size: 4em;
+	font-size: 8vw;
+	text-align: center;
+	line-height: 1em;
+	margin: 0em;
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+
+.titlebar {
+	background-color: yellow;
+	text-align: center;
+	min-height: 1em;
+	font-size: 3em;
+	font-size: 3vh;
+	margin-top: -3vh;
+}
+
+.articles {
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 2em;
+	border-bottom: 5px solid #eee;
+}
+
+.post {
+	font-size: 2em;
+	font-size: 5vw;
+	text-align: center;
+}
+
+.date {
+	text-align: right;
+}
+
+.description {
+
+}
+
+@media (min-width: 600px){
+
+	.headline{
+		/*font-size: 7em;*/
+		padding-top: 1em;
+		padding-bottom: 1em;
+
+	}
+
+	.articles {
+		margin-left: 30%;
+		margin-right: 30%;
+	}
+
+	.blogpost {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+	}
+
+}
