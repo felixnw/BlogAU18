@@ -24,9 +24,12 @@
 	<!-- In general, you should have only one container per page. -->
 	<div class="container">
 		<div class="titlebar">
-			<p><a href="{{ site.url }}{{ site.baseurl }}">{{ page.title }}</a></p>
+			<p><a href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a></p>
 		</div>
 		<div class="blogpost">
+            <div class="posttitle">
+                <p>{{ post.title }}</p>
+            </div>
 			<div class="date">
         {% if page.date %}
     		<p>{{ page.date | date: "%A, %B %-d, %Y" }}</p>
