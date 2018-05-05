@@ -57,6 +57,7 @@ body {
 	font-family: 'IBM Plex Serif', serif;
 	font-size: 4em;
 	font-size: 8vw;
+    color: white;
 	text-align: center;
 	line-height: 1em;
 	margin: 0em;
@@ -77,13 +78,14 @@ body {
 	margin-left: 5%;
 	margin-right: 5%;
 	margin-bottom: 2em;
-	border-bottom: 5px solid #eee;
 }
 
 .post {
 	font-size: 2em;
 	font-size: 5vw;
 	text-align: center;
+    line-height: 1em;
+    margin-top: -0.25em;
 }
 
 .date {
@@ -91,7 +93,7 @@ body {
 }
 
 .description {
-
+    border-bottom: 5px solid #eee;
 }
 
 @media (min-width: 600px){
@@ -110,7 +112,20 @@ body {
 
 	.blogpost {
 		display: grid;
-		grid-template-columns: 1fr 1fr;
+		grid-template-columns: 1fr 1fr 1fr 1fr;
 	}
+    
+    .date {
+        grid-column: 1/2;
+    }
+    
+    .posttitle {
+        grid-column: 1/2:
+    }
+    
+    .content {
+        grid-column: 3/4;
+    }
+    
 
 }
