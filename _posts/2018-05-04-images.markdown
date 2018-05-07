@@ -1,0 +1,5 @@
+---
+title: "This blog and images"
+description: "Portrait images don't seem to show right"
+---
+When I've been posting images on this blog they all seem to display in landscape even if it is a portrait image, and I'm not sure why this happens or how to fix it.
