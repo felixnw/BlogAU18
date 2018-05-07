@@ -1,0 +1,6 @@
+---
+title: "Emoji"
+description: "AIGA article about emoji"
+---
+It's interesting to see how emoji have changed over the years.
+[The Story of the World’s First Emoji](https://eyeondesign.aiga.org/the-story-of-the-worlds-first-emoji/)
