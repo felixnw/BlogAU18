@@ -93,8 +93,13 @@ body {
     font-size: 1.5em;
 }
 
+.postdate{
+    font-size: 1.5em;
+}
+
 .posttitle {
-    font-size: 2em;
+    font-size: 3em;
+    line-height: normal;
 }
 
 .description {
