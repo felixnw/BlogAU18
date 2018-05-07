@@ -134,12 +134,12 @@ body {
 		grid-template-columns: 1fr .5fr 1fr 1fr;
 	}
     
-    .date {
+    .postdate {
         grid-column: 1/2;
     }
     
     .posttitle {
-        grid-column: 1/2:
+        grid-column: 1/2;
     }
     
     .content {
