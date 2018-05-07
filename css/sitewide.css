@@ -70,8 +70,9 @@ body {
 	text-align: center;
 	min-height: 1em;
 	font-size: 3em;
-	font-size: 3vh;
+	font-size: 5vh;
 	margin-top: -3vh;
+	margin-top: -1em;
 }
 
 .articles {
