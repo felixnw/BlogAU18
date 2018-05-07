@@ -2,5 +2,5 @@
 title: "Newseum facts in bathrooms"
 description: "The Newseum has funny little facts and quotes in the restrooms"
 ---
-<img src="/img/newseum.jpg" alt="Picture of a tile that has a fact on it">
+<img src="/img/correction.jpg" alt="Picture of a tile that has a fact on it">
 I went to the Newseum today, and found that in the restrooms they have funny tiles, such as this one showing a correction a newspaper had to make.
