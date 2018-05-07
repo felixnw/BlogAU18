@@ -1,0 +1,7 @@
+---
+title: "Coke ad"
+description: "Strange ad for Coca Cola"
+---
+
+<img src="/img/coke.jpg" alt="Advertisement for Coca Cola showing a woman making a strange smile">
+While this ad is memorable due to the unusual expression the woman is making, it doesn't really get me to want to buy the product. I'm not sure what the ad designer was thinking.
