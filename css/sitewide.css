@@ -90,10 +90,24 @@ body {
 
 .date {
 	text-align: right;
+    font-size: 1.5em;
+}
+
+.posttitle {
+    font-size: 2em;
 }
 
 .description {
     border-bottom: 5px solid #eee;
+}
+
+.blogpost {
+    margin-left: 3em;
+    margin-right: 3em;
+}
+
+.content {
+    font-size: 1.25em;
 }
 
 @media (min-width: 600px){
@@ -112,7 +126,7 @@ body {
 
 	.blogpost {
 		display: grid;
-		grid-template-columns: 1fr 1fr 1fr 1fr;
+		grid-template-columns: 1fr .5fr 1fr 1fr;
 	}
     
     .date {
@@ -124,7 +138,7 @@ body {
     }
     
     .content {
-        grid-column: 3/4;
+        grid-column: 3/ span 2;
     }
     
 
