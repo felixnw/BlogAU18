@@ -1,0 +1,8 @@
+---
+title: "Bad pizza ad"
+description: "Saw this poorly done pizza ad in my building's lobby"
+---
+
+<img src="/img/pizza.jpg" alt="Picture of a small ad for cafe romeo pizza">
+
+I found this advertisement in the lobby of my building. It is kind of amazing how many mistakes there are on one ad. My favorite one is cheecheeese pizza.
