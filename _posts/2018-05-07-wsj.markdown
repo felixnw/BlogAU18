@@ -1,0 +1,6 @@
+---
+title: "Article on privacy"
+description: "Interesting article about our lack of privacy today"
+---
+
+I found [this Wall Street Journal article](https://www.wsj.com/articles/privacy-is-dead-heres-what-comes-next-1525608001) interesting. 
