@@ -1,0 +1,7 @@
+---
+title: "Another strange ad"
+description: "Strange stock photo ad"
+---
+
+<img src="/img/tumblrad.jpg" alt="Screenshot of an ad on tumblr.">
+The squished aspect ratio of this photo combined with the expression the woman on the right is making just makes this ad ridiculous looking.
