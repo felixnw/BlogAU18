@@ -1,6 +1,6 @@
 ---
-title: "Yet another strange ad"
-description: ""This hack will send you straight to the hospital""
+title: Yet another strange ad
+description: "This hack will send you straight to the hospital"
 ---
 
 <img src="/img/tumblrad2.png" alt="Screenshot of ad showing a phone inside a microwave with the caption this hack will send you straight to the hospital">
