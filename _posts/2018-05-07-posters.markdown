@@ -1,0 +1,7 @@
+---
+title: "Movie Posters Today"
+description: "AIGA talks about movie posters"
+---
+Interesting article about movie posters.
+
+[The Art of the Movie Poster in the Age of Netflix](https://eyeondesign.aiga.org/the-art-of-the-movie-poster-in-the-age-of-netflix/)
